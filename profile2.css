@@ -1,0 +1,27 @@
+html {
+  background: url(../images/caffeine.png) no-repeat center center fixed;
+  background-size: cover;
+}
+#info {
+  padding: 30px 40px;
+  width: 60%;
+  max-width: 400px;
+  margin: 100px auto;
+  background-color: rgba(255, 255, 255, .3);
+  font-family: "Arial Black", Gadget, sans-serif;
+  color:#ffffff;
+}
+.self {
+    margin: 0 120px;
+}
+h1 {
+  text-align: center;
+  text-decoration-style: wavy;
+}
+p {
+  text-align: center;
+  text-decoration-style: wavy;
+}
+a {
+    color:#ffffff;
+  }

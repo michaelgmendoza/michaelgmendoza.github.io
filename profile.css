@@ -1,0 +1,11 @@
+.info {
+  height: 30%;
+  width: 30%;
+  background-color: red;
+  
+}
+.cosmos{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
